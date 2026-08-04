@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ShkibidiShprot/ShkibidiShprot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roman, a student developer interested in game development and software projects.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working projects, experimenting with new technologies, and learning by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack includes C++, C#, Kotlin, Lua, Luau, and GDScript. I use Godot to create games and interactive experiences.
+
+I'm currently focused on improving my programming skills, writing cleaner code, and turning small ideas into complete projects.
+
+Fun facts
+I always have a new project idea in mind.
+My favorite part of development is seeing an idea become interactive.
+I like experimenting with unusual gameplay ideas.
