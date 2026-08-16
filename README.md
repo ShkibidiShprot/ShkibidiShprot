@@ -1,14 +1,6 @@
-## Hi there 👋
+# About Me:
+I'm Roman, a student developer interested in game development and software projects.<br><br>I enjoy turning ideas into working projects, experimenting with new technologies, and learning by building.<br><br>My current tech stack includes C++, C#, Kotlin, Lua, Luau, and GDScript. I use Godot to create games and interactive experiences.<br><br>I'm currently focused on improving my programming skills, writing cleaner code, and turning small ideas into complete projects.<br><br>Fun facts I always have a new project idea in mind. My favorite part of development is seeing an idea become interactive. I like experimenting with unusual gameplay ideas.
 
-I'm Roman, a student developer interested in game development and software projects.
 
-I enjoy turning ideas into working projects, experimenting with new technologies, and learning by building.
-
-My current tech stack includes C++, C#, Kotlin, Lua, Luau, and GDScript. I use Godot to create games and interactive experiences.
-
-I'm currently focused on improving my programming skills, writing cleaner code, and turning small ideas into complete projects.
-
-Fun facts
-I always have a new project idea in mind.
-My favorite part of development is seeing an idea become interactive.
-I like experimenting with unusual gameplay ideas.
+# Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
